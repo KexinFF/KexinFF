@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning R, SAS, and Python
 - 😄 Pronouns: She/Her/Hers
 - ⚡ Fun fact: A former athelete in hurdles and high jump;
--             A former double bassist in the university choir. 
+            A former double bassist in the university choir. 
 
 <!---
 KexinFF/KexinFF is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
